@@ -1,18 +1,17 @@
-# 📊 Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDFIcBFAzcm5qalCU3THkjOhYaqUYDqP?usp=sharing)
 
 Run the complete EDA notebook with all visualizations and techniques directly in Google Colab.
 
 ---
-
-## 📌 About
+ About
 
 This project focuses on performing Exploratory Data Analysis (EDA) to understand data patterns, relationships, and trends using statistical methods and visualizations.
 
 ---
 
-## 🛠️ Tools & Libraries
+ Tools & Libraries
 
 * Python
 * Pandas
@@ -23,7 +22,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) to understand
 
 ---
 
-## 🔍 EDA Techniques
+ EDA Techniques
 
 * Data Cleaning
 * Handling Missing Values
@@ -34,7 +33,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) to understand
 
 ---
 
-## 📈 Visualizations
+ Visualizations
 
 * Line Chart
 * Bar Chart
@@ -45,8 +44,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) to understand
 * Heatmap
 
 ---
-
-## ▶️ How to Use
+ How to Use
 
 1. Click the **Open in Colab** button above
 2. Run all cells
@@ -54,14 +52,14 @@ This project focuses on performing Exploratory Data Analysis (EDA) to understand
 
 ---
 
-## 📌 Note
+ Note
 
 This project is created for learning and practicing data analysis techniques.
 
 ---
 
-## 🔥 Stay Tuned
+Stay Tuned
 
-More projects coming soon. 🚀
+More projects coming soon.
 
 ---
